@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // so assets load correctly when published at https://<user>.github.io/<repo>/
 export default defineConfig({
   plugins: [react()],
-  base: '/mini-finanza-app-dev/',
+  base: '/mini-finanza-app-clon/',
 })
